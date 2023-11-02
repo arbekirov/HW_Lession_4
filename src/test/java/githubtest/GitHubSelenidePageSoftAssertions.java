@@ -18,7 +18,7 @@ public class GitHubSelenidePageSoftAssertions {
     }
 
     @Test
-    void GitHubPageSearch() {
+    void gitHubPageSearch() {
         //открыть страницу selenide
         open("/selenide/selenide");
         //кликнуть в раздел wiki
