@@ -8,7 +8,7 @@ import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selenide.*;
 import static com.codeborne.selenide.Selenide.$;
 
-public class GitHubSelenidePageSoftAssertions {
+public class GitHubSelenidePageSoftAssertionsTest {
     @BeforeAll
     static void beforeAll() {
         Configuration.browserSize = "1920x1080";
